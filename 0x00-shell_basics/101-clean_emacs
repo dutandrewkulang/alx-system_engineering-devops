@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f nosuchfile 'find . -name "*~"'
+find . -name "*~" -type f
