@@ -1,6 +1,5 @@
 **All commands and their explanations**
 
-
 - print working directory
 
 ```sh
@@ -11,4 +10,10 @@ pwd
 
 ```sh
 cd
+```
+
+- list files
+
+```sh
+ls -l
 ```
