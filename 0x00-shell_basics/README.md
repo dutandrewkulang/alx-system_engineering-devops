@@ -5,3 +5,9 @@ All commands and their explanations
 ```sh
 pwd
 ```
+
+- bring me home
+
+```sh
+cd
+```
