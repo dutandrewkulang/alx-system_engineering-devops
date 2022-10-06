@@ -1,6 +1,6 @@
 All commands and their explanations
 
-print working directory
+- print working directory
 
 ```sh
 pwd
