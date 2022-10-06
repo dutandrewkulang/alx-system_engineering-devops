@@ -1,4 +1,4 @@
-<u>**All commands and their explanations**</u>
+**All commands and their explanations**
 
 
 - print working directory
