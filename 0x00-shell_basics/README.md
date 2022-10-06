@@ -28,3 +28,10 @@ ls -la
 
 ```sh
 ls -al
+```
+
+- create my first folder
+
+```sh
+mkdir /tmp/my_first_directory
+```
