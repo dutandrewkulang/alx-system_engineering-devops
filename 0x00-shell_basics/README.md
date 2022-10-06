@@ -35,3 +35,9 @@ ls -al
 ```sh
 mkdir /tmp/my_first_directory
 ```
+
+- Move that file
+
+```sh
+mv /tmp/betty /tmp/my_first_directory
+```
