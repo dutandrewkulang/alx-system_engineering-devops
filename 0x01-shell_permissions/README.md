@@ -11,3 +11,9 @@ su {name of user to switch to}
 ```sh
 whoami
 ```
+
+- Show all groups on system
+
+```sh
+groups
+```
