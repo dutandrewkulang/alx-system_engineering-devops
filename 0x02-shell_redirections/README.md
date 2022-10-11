@@ -7,6 +7,12 @@ echo "Hello, World"
 
 ````
 
+- to display other characters on the standard output enclose the output in single quotes and slash to escape certain characters
+
+```sh
+echo '"(Ôo)'\'
+```
+
 - display file content
 
 ```sh
