@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#using until to print text 10 times
+a=0
+until [ $a -gt 9 ]
+do
+    echo "Best School"
+    ((a++))
+done
