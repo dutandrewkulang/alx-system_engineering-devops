@@ -1,0 +1,4 @@
+# Show all listening ports
+
+
+netstat -l
