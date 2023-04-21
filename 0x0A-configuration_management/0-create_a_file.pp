@@ -1,6 +1,6 @@
 # creating a file
 
-file { 'school'
+file { 'school':
      ensure => 'present',
      mode => '0744',
      owner => 'www-data',
