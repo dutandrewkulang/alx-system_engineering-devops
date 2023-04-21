@@ -1,3 +1,5 @@
+# creating a file
+
 file { 'school'
      ensure => 'present',
      mode => '0744',
