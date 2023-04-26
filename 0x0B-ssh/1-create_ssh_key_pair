@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#A script to create a private ssh key
+# A script to create a private ssh key
 
-ssh -b 4096 -f school -N betty
+ssh-keygen -b 4096 -f school -N betty
