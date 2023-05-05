@@ -1,4 +1,2 @@
 #!/bin/bash
-#find . -type d -exec chmod -R u=rwx,go=rx
-#chmod -R +X 
 chmod ugo+x */
