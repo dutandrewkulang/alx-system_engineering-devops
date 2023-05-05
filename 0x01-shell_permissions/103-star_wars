@@ -1,4 +1,2 @@
 #!/bin/bash
-
-#play the starWars IV on terminal
 telnet towel.blinkenlights.nl
