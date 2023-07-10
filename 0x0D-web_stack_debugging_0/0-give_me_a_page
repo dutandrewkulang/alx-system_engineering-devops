@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# returning a page from apache docker image
+echo 'Hello Holberton' > /var/www/html/index.html
+sudo service apache2 start
